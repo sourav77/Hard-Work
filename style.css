@@ -15,6 +15,10 @@ section{
     padding-left: 20%;
     
 }
+.half-width{ 
+
+font-size: 20px;
+}
 #mid-on{
     padding-left: 40%;
 }
@@ -53,16 +57,47 @@ section{
    
     margin-bottom: 100px;
     margin-left: 80px;
-    margin-right: 80px;
+    margin-right: 80px;s
     border-radius: 10px;
     text-align: justify;
     background-color: #ffeeee;
     
 }
-.j-3{
+.j-3{s
     
     margin-bottom: 100px;
     margin-left: 40px;
     text-align: justify;
     background-color: #00e1ff;
 }
+.last-item{
+    width: 40%;
+    margin-bottom: 80px;
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 22px;
+    border-radius: 11px;
+    box-shadow: 22px 22px 42px gray;
+   }
+
+   .last-item{
+
+   text-align: justify;
+   font-size:20px
+   }
+   
+   
+.footer-part{
+    color: red;
+   }
+
+.p-p{
+    text-align: center;
+    font-size: 37px;
+    background: #444444;
+    height: 100px;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+    padding: 20px;
+}
+   
