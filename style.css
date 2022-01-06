@@ -21,9 +21,7 @@ section{
 #mid-off{
     color: orange;
 }
-
     
-
 .half-width img{
     width: 50%;
 }
@@ -34,4 +32,12 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.center-mid{
+    padding-left: 20%;
+    size: 50%;
+}
+.center-mid img{
+    width: 50%;
+
 }
