@@ -18,6 +18,12 @@ section{
 #mid-on{
     padding-left: 40%;
 }
+#mid-off{
+    color: orange;
+}
+
+    
+
 .half-width img{
     width: 50%;
 }
