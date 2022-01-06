@@ -100,4 +100,9 @@ font-size: 20px;
     color: #FFFFFF;
     padding: 20px;
 }
+.stay-focus{
+    border-left: 8px solid;
+    border-radius: 10px;
+    border-image:linear-gradient(tomato,red) 10;
+}
    
